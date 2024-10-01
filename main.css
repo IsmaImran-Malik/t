@@ -12,11 +12,19 @@ body {
     body {
         font-size: 23px;
     }
+    .mobile>:nth-child(2),.work>:nth-child(2){
+        font-size: 14px;
+        display:inline-block;
+    }
 }
 
 @media (max-width: 480px) { /* For small mobile devices */
     body {
         font-size: 20px;
+    }
+    .mobile>:nth-child(2),.work>:nth-child(2){
+        font-size: 14px;
+        display:inline-block;
     }
 }
 
