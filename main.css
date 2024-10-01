@@ -45,12 +45,12 @@ body {
     flex-direction: row;
     /* align-items: center; */
     margin-top: 28px;
-    margin-bottom:32px;
+    margin-bottom:28px;
 }
 
 .content_detail{
     align-items: center;
-    margin-left: 50px;
+    margin-left: 38px;
     font-weight: 150;
 }
 .work,.mobile{
@@ -97,7 +97,7 @@ body {
     padding-left:13px;
     padding-right:13px;
     border-style:none;
-    border-radius: 4px;
+    border-radius: 6px;
     display:flex;
     align-items: center;
     margin:auto;
@@ -110,5 +110,5 @@ body {
 button>a{
     color:white;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
 }
