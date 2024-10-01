@@ -16,6 +16,11 @@ body {
         font-size: 14px;
         display:inline-block;
     }
+    .content_detail{
+        align-items: center;
+        margin-left: 38px;
+        font-weight: 150;
+    }
 }
 
 @media (max-width: 480px) { /* For small mobile devices */
@@ -25,6 +30,11 @@ body {
     .mobile>:nth-child(2),.work>:nth-child(2){
         font-size: 14px;
         display:inline-block;
+    }
+    .content_detail{
+        align-items: center;
+        margin-left: 38px;
+        font-weight: 150;
     }
 }
 
